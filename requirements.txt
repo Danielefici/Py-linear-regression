@@ -4,4 +4,4 @@ numpy
 matplotlib
 joblib
 seaborn
-sklearn
+scikit-learn
